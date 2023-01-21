@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;900&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.bigbox{
+    display: flex;
+    width: 1200px;
+    flex-wrap: wrap;
+}
+.boxes{
+    width: 789px;
+    /* border: 1px solid black; */
+}
+.p{
+    margin-right: 20px;
+}
+.box1{
+    /* display: flex; */
+    /* justify-content: flex-end; */
+    width: 400px;
+    height: 189px;
+    /* border: 1px solid black; */
+    background-color: #eee;
+
+}
+.box3{
+    /* display: flex; */
+    width: 400px;
+    height: 622px;
+    /* border: 1px solid black; */
+    margin-top: 11px;
+    background-color: #eee;
+}
+h1{
+    margin-top: -10px;
+    font-weight: 500;
+}
+.date{
+    font-size: 10px;
+}
+.kate{
+    background-color: azure;
+    font-size: 12px;
+    margin-top: -16px;
+    margin-right: 25px;
+}
+h5{
+    font-size: 17px;
+    font-weight: 500;
+}
+hr{
+    width: 355px;
+    margin-right: 24px;
+    padding: 0px 0px;
+    background-color: silver;
+}
+.table{
+    margin-left: 18px;
+    font-weight: 500;    
+    font-size: 13px;
+}
+a{
+    margin-left: 18px;
+    font-size: 12px; 
+    color: #833ae0;  
+}
+.a1{
+    margin-top: -2px;
+}
+.a2{
+    margin-top: -32px;
+}
+.a3{
+    margin-top: -32px;
+}
+.a4{
+    margin-top: -32px;
+}
+.a5{
+    margin-top: -32px;
+}
+table{
+
+    display: contents;
+    
+    /* align-self: flex-end;  */
+}
+tr, td{
+        padding-left: 20px;
+        padding-top: 13px;
+}
+thead, th{
+    font-size: 13px;
+    text-align: center;
+    padding-left: 20px;
+
+}
+.pbox3{
+    margin-left: 18px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+

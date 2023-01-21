@@ -1,0 +1,17 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+/* img{
+    width: 1273.3px;
+    margin-top: -30px;
+    margin-left: -10px;
+
+}
+element.style {
+    background-image: url(./image/image_1.jpg.webp);
+} */
+section{
+    background-image: url(./image/image_1.jpg.webp);
+}
